@@ -64,7 +64,7 @@ Team **CodeRangers** project for Hackforce’25 🚀
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="mailto:pasiduchamod@example.com"><img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:jayaweera.pasindu123@gmail.com"><img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/pasidu-chamod/"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.facebook.com/pcj2001?mibextid=wwXIfr&mibextid=wwXIfr"><img src="https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://www.instagram.com/pasidu_chamod?igsh=MW1xN2FoMGNpcmtrcg%3D%3D&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -76,7 +76,7 @@ Team **CodeRangers** project for Hackforce’25 🚀
 
 <!-- Snake contribution graph -->
 <p align="center">
-  <img src="https://github.com/pasiduchamod/pasiduchamod/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://streak-stats.demolab.com?user=pasiduchamod&theme=github-dark-blue&hide_border=true" height="160"/>
 </p>
 
 <!-- Footer -->
