@@ -76,8 +76,10 @@ Team **CodeRangers** project for Hackforce’25 🚀
 
 <!-- Snake contribution graph -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pasiduchamod&theme=github-dark-blue&hide_border=true" height="160"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=pasiduchamod&theme=radical&no-frame=true&column=5" />
 </p>
+
+
 
 <!-- Footer -->
 <p align="center">
