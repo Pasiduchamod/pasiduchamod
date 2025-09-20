@@ -64,8 +64,12 @@ Team **CodeRangers** project for Hackforce’25 🚀
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pasidu-chamod/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/pasiduchamod"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:pasiduchamod@example.com"><img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/pasidu-chamod/"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/pcj2001?mibextid=wwXIfr&mibextid=wwXIfr"><img src="https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/pasidu_chamod?igsh=MW1xN2FoMGNpcmtrcg%3D%3D&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://medium.com/@pasiduchamod"><img src="https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://www.credly.com/users/pasidu-chamod"><img src="https://img.shields.io/badge/Credly-000?style=for-the-badge&logo=credly&logoColor=white" /></a>
 </p>
 
 ---
